@@ -14,16 +14,16 @@ Results
 ## Installation
 To use this project locally
 
-1. Clone the repository
+1. Clone the repository :
      git clone https://github.com/chebs-ke/CreditVision
-2. Install the required dependencies
+2. Install the required dependencies :
      pip install python --3
   
 
 ## Usage
-1. Navigate to the project directory:
+1. Navigate to the project directory :
       cd copy
-2. Run the prediction script:
+2. Run the prediction script :
      python app.py
 
 ## Results 
@@ -33,13 +33,13 @@ We evaluated the performance of the loan default prediction model using Decision
 We welcome contributions to enhance the loan default prediction project. To contribute, please follow these steps:
  1. Fork the repository
     
- 2. Create a new branch
+ 2. Create a new branch :
     git checkout -b feature/your-feature
     
-3. Make your changes and commit them:
+3. Make your changes and commit them :
    git commit -m 'Add your feature'
    
-4. Push the changes to your forked repository
+4. Push the changes to your forked repository :
    git push origin feature/your-feature
    
 5. Open a pull request and describe the changes you have made.
