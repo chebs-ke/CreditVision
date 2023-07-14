@@ -15,7 +15,7 @@ Results
 To use this project locally
 
 1. Clone the repository
-     git clone https://github.com/kimwebi/longer
+     git clone https://github.com/chebs-ke/CreditVision
 2. Install the required dependencies
      pip install python
      pip install scikit-learn
