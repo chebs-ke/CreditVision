@@ -15,16 +15,16 @@ Results
 To use this project locally
 
 1. Clone the repository :
-     git clone https://github.com/chebs-ke/creditvision
+     ```git clone https://github.com/chebs-ke/creditvision```
 2. Install the required dependencies :
-     pip install python --3
+   ```  pip install python --3```
   
 
 ## Usage
 1. Navigate to the project directory :
-      cd copy
+     ``` cd copy```
 2. Run the prediction script :
-     python app.py
+    ``` python app.py```
 
 ## Results 
 We evaluated the performance of the loan default prediction model using Decision trees. The model achieved an accuracy of  0.77 and a precision score of 0.75.
