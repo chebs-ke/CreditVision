@@ -15,7 +15,7 @@ Results
 To use this project locally
 
 1. Clone the repository :
-     git clone https://github.com/chebs-ke/CreditVision
+     git clone https://github.com/chebs-ke/creditvision
 2. Install the required dependencies :
      pip install python --3
   
